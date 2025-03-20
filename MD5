@@ -1,0 +1,12 @@
+8f3e8d0fa642e79e329aea0d008fe3b2 *DESCRIPTION
+300fb7a35c09386d8d8a6a44ce74bd46 *NAMESPACE
+5671a5fd8cb1452c1407e95547af56b3 *NEWS.md
+e26565f932a76614620844a507d1fc2c *R/LJmp3converter-package.R
+03ed14c6b65504c2bb723f3ca226e0bb *R/convert_app.R
+8327ed98bd87aa6819891b7044435809 *R/download_ffmpeg.R
+ee801675769e5d13cd17c00502ed5b8d *README.md
+cdac7899aee8b9de9beb33440a3f136c *man/LJmp3converter-package.Rd
+4af69d915a8043996f4ac2edc2a79d85 *man/download_ffmpeg.Rd
+0deca9d2f32db5626f02b2b939c516ed *man/run_converter_app.Rd
+2fd55b362d1c8f5a1eec6f7d673e70ad *tests/testthat.R
+bc684c45935e85be2bd7b6098d837486 *tests/testthat/test-download_ffmpeg.R
